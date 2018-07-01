@@ -10,4 +10,4 @@ function randomId(length) {
     return text
 }
 
-export default randomId;
+module.exports = randomId;
